@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["_IMPL_DESERIALIZE_FOR_CreateProduct",""]],"fn":[["create_product_command","Default implementation for a `CreateProductCommand`. "]],"struct":[["CreateProduct","Input for a `CreateProductCommand`. "]],"trait":[["CreateProductCommand","Create a new product. "]],"type":[["Result",""]]});

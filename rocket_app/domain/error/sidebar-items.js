@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Kind",""]],"fn":[["bad_input",""],["err_msg",""]],"struct":[["Error","The main error type "]]});

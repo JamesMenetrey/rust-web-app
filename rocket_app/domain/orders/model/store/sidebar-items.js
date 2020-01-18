@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["in_memory_store",""]],"struct":[["InMemoryStore","A test in-memory order store. "],["InMemoryStoreInner",""]],"trait":[["OrderStore","A place to persist and fetch order entities. "],["OrderStoreFilter","An additional store for fetching multiple order records at a time."]],"type":[["Iter",""]]});

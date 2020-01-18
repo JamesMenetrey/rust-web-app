@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["OrdersResolver","Resolver for orders."]]});

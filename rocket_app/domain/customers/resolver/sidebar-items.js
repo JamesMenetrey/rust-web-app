@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CustomersResolver","Resolver for customers."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["get_product","Contains the `GetProductQuery` type. "],["get_product_summaries","Contains the `GetProductSummariesQuery` type. "]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["in_memory_store",""]],"trait":[["CustomerStore","A place to persist and fetch customers. "]],"type":[["InMemoryStore",""]]});

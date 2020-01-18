@@ -1,0 +1,9 @@
+(function() {var implementors = {};
+implementors["rocket_app"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/convert/trait.From.html\" title=\"trait core::convert::From\">From</a>&lt;<a class=\"struct\" href=\"rocket_app/domain/error/struct.Error.html\" title=\"struct rocket_app::domain::error::Error\">Error</a>&gt; for <a class=\"enum\" href=\"rocket_app/app/error/enum.Error.html\" title=\"enum rocket_app::app::error::Error\">Error</a>","synthetic":false,"types":["rocket_app::app::error::Error"]},{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/convert/trait.From.html\" title=\"trait core::convert::From\">From</a>&lt;Error&gt; for <a class=\"enum\" href=\"rocket_app/app/error/enum.Error.html\" title=\"enum rocket_app::app::error::Error\">Error</a>","synthetic":false,"types":["rocket_app::app::error::Error"]},{"text":"impl&lt;E&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/convert/trait.From.html\" title=\"trait core::convert::From\">From</a>&lt;E&gt; for <a class=\"struct\" href=\"rocket_app/domain/error/struct.Error.html\" title=\"struct rocket_app::domain::error::Error\">Error</a> <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;E: <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/std/error/trait.Error.html\" title=\"trait std::error::Error\">Error</a> + <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Send.html\" title=\"trait core::marker::Send\">Send</a> + <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Sync.html\" title=\"trait core::marker::Sync\">Sync</a> + 'static,&nbsp;</span>","synthetic":false,"types":["rocket_app::domain::error::Error"]}];
+
+            if (window.register_implementors) {
+                window.register_implementors(implementors);
+            } else {
+                window.pending_implementors = implementors;
+            }
+        })()

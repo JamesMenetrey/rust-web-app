@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["create_product","Contains the `CreateProductCommand` type. "],["set_product_title","Contains the `SetProductTitleCommand`. "]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["commands","Commands for modifying customer state. "],["model","Contains the `Customer` entity. "],["queries","Queries for fetching customer state. "],["resolver","Contains the `CustomersResolver` type. "]]});

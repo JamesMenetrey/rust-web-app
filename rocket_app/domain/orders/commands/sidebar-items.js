@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["add_or_update_product","Contains the `AddOrUpdateProductCommand` type. "],["create_order","Contains the `CreateOrderCommand` type. "]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["create_customer","Contains the `CreateCustomerCommand` type. "]]});

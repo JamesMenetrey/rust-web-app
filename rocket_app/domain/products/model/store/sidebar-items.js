@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["in_memory_store",""]],"trait":[["ProductStore",""],["ProductStoreFilter","An additional store for fetching multiple product records at a time."]],"type":[["InMemoryStore","A test in-memory product store. "],["Iter",""]]});

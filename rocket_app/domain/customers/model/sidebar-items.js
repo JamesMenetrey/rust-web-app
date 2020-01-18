@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["_IMPL_DESERIALIZE_FOR_CustomerData",""],["_IMPL_SERIALIZE_FOR_CustomerData",""]],"mod":[["store","Persistent customer storage. "]],"struct":[["Customer","A customer. "],["CustomerData","Data for a customer. "]],"type":[["CustomerId",""],["CustomerVersion",""],["NextCustomerId",""]]});

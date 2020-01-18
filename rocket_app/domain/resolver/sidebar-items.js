@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Resolver","Resolver for the domain."]]});

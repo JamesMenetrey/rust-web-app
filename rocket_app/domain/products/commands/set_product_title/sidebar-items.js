@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["_IMPL_DESERIALIZE_FOR_SetProductTitle",""]],"fn":[["set_product_title_command","Default implementation for a `SetProductTitleCommand`. "]],"struct":[["SetProductTitle","Input for a `SetProductTitleCommand`. "]],"trait":[["SetProductTitleCommand","Set a new title for a product. "]],"type":[["Result",""]]});

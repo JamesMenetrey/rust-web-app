@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["_IMPL_DESERIALIZE_FOR_AddOrUpdateProduct",""]],"fn":[["add_or_update_product_command","Default implementation for an `AddOrUpdateProductCommand`. "]],"struct":[["AddOrUpdateProduct","Input for an `AddOrUpdateProductCommand`. "]],"trait":[["AddOrUpdateProductCommand","Add or update a product line item on an order. "]],"type":[["Result",""]]});

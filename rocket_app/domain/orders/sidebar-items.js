@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["commands","Commands for modifying order state. "],["model","Contains the `Order` and `OrderLineItem` entities."],["queries","Queries for fetching order state. "],["resolver","Contains the `OrdersResolver` type. "]]});
